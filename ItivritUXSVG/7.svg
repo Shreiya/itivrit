@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="414px" viewBox="0 0 896 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="89" height="89" rx="2"></rect>
+        <filter x="-7.9%" y="-5.6%" width="115.7%" height="115.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="7" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#ECECEC" x="0" y="316" width="896" height="102"></rect>
+        <text id="Tap-on-the-audio-sig" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="22" fill="#000000">
+            <tspan x="279.257424" y="360">Tap on the audio signal to hear Maharaja Takhat Singh</tspan>
+        </text>
+        <polygon id="Shape" fill="#000000" points="48 31 35.8 31 41.4 25.4 40 24 32 32 40 40 41.4 38.6 35.8 33 48 33"></polygon>
+        <g id="Post-it®" transform="translate(587.000000, 0.000000)">
+            <g id="Paper">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFF285" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="40-second-cube-anima" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="5" y="18">40 second </tspan>
+                <tspan x="5" y="35">cube </tspan>
+                <tspan x="5" y="52">animation </tspan>
+                <tspan x="5" y="69">begins here</tspan>
+            </text>
+        </g>
+        <path d="M862,28 L880,28 L880,26 L862,26 L862,28 L862,28 Z M862,23 L880,23 L880,21 L862,21 L862,23 L862,23 Z M862,16 L862,18 L880,18 L880,16 L862,16 L862,16 Z" id="Shape" fill="#000000"></path>
+        <path d="M837,31.539 L837,29.476 C839.891,28.615 842,25.939 842,22.769 C842,19.6 839.891,16.924 837,16.063 L837,14 C841.007,14.911 844,18.487 844,22.769 C844,27.052 841.007,30.629 837,31.539 L837,31.539 Z M839.5,22.769 C839.5,24.535 838.48,26.059 837,26.797 L837,18.742 C838.48,19.48 839.5,21.004 839.5,22.769 L839.5,22.769 Z M826,25.769 L826,19.769 L830,19.769 L835,14.769 L835,30.769 L830,25.769 L826,25.769 Z" id="ic_sound" fill="#000000"></path>
+    </g>
+</svg>

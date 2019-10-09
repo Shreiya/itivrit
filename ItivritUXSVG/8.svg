@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="414px" viewBox="0 0 896 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="103" height="103" rx="2"></rect>
+        <filter x="-6.8%" y="-4.9%" width="113.6%" height="113.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="112" height="112" rx="2"></rect>
+        <filter x="-6.2%" y="-4.5%" width="112.5%" height="112.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="8" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M855,35 L873,35 L873,33 L855,33 L855,35 L855,35 Z M855,30 L873,30 L873,28 L855,28 L855,30 L855,30 Z M855,23 L855,25 L873,25 L873,23 L855,23 L855,23 Z" id="Shape" fill="#000000"></path>
+        <rect id="Rectangle" fill="#ECECEC" x="0" y="316" width="896" height="102"></rect>
+        <polygon id="Shape" fill="#000000" points="48 31 35.8 31 41.4 25.4 40 24 32 32 40 40 41.4 38.6 35.8 33 48 33"></polygon>
+        <path d="M830,38.539 L830,36.476 C832.891,35.615 835,32.939 835,29.769 C835,26.6 832.891,23.924 830,23.063 L830,21 C834.007,21.911 837,25.487 837,29.769 C837,34.052 834.007,37.629 830,38.539 L830,38.539 Z M832.5,29.769 C832.5,31.535 831.48,33.059 830,33.797 L830,25.742 C831.48,26.48 832.5,28.004 832.5,29.769 L832.5,29.769 Z M819,32.769 L819,26.769 L823,26.769 L828,21.769 L828,37.769 L823,32.769 L819,32.769 Z" id="ic_sound" fill="#000000"></path>
+        <g id="Group" transform="translate(142.000000, 181.000000)" fill="#000000" fill-rule="nonzero">
+            <path d="M26.5001705,0 C11.8396266,0 0,11.6383717 0,26.0001655 C0,40.3619387 11.8396266,52 26.5001705,52 C41.1607147,52 53,40.3619387 53,26.0001655 C53,11.6383717 41.1607147,0 26.5001705,0 Z M26.5001705,9.74066715 C35.8658328,9.74066715 43.5025918,17.0112773 43.5025918,26.0001655 C43.5025918,34.9890744 35.8658328,42.2593328 26.5001705,42.2593328 C17.1345064,42.2593328 9.49774749,34.9890744 9.49774749,26.0001655 C9.49774749,17.0112773 17.1345064,9.74066715 26.5001705,9.74066715 Z" id="Shape"></path>
+        </g>
+        <g id="Post-it®" transform="translate(92.000000, 0.000000)">
+            <g id="Paper">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFF285" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="This-is-the-first-ob" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="5" y="19">This is the first </tspan>
+                <tspan x="5" y="36">object that is </tspan>
+                <tspan x="5" y="53">5.20 metres </tspan>
+                <tspan x="5" y="70">away from the </tspan>
+                <tspan x="5" y="87">camera</tspan>
+            </text>
+        </g>
+        <g id="Post-it®" transform="translate(364.000000, 0.000000)">
+            <g id="Paper">
+                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                <use fill="#FFF285" fill-rule="evenodd" xlink:href="#path-3"></use>
+            </g>
+            <text id="Circle-must-have-ani" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="6" y="20">Circle must </tspan>
+                <tspan x="6" y="37">have animation </tspan>
+                <tspan x="6" y="54">of fading in and </tspan>
+                <tspan x="6" y="71">out using </tspan>
+                <tspan x="6" y="88">coroutines</tspan>
+            </text>
+        </g>
+        <text id="Tap-on-the-circles-t" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="22" fill="#000000">
+            <tspan x="255.635842" y="371">Tap on the circles to know more about the objects in the room</tspan>
+        </text>
+    </g>
+</svg>

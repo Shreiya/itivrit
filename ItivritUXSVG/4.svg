@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="414px" viewBox="0 0 896 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>4</title>
+    <desc>Created with Sketch.</desc>
+    <g id="4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="How-to-use-Itivrit" font-family="Roboto-Bold, Roboto" font-size="20" font-weight="bold" line-spacing="28" fill="#000000" fill-opacity="0.87">
+            <tspan x="67" y="98">How to use Itivrit</tspan>
+        </text>
+        <text id="1-Dwaar-is-an-augmen" font-family="Helvetica" font-size="16" font-weight="normal" line-spacing="24">
+            <tspan x="67" y="146" fill="#65B7F3">1	</tspan>
+            <tspan x="95" y="146" font-family="Roboto-Regular, Roboto" fill="#000000">Dwaar is an augmented reality application that recreates historical </tspan>
+            <tspan x="67" y="170" font-family="Roboto-Regular, Roboto" fill="#000000">monuments and their stories on your device’s screen.</tspan>
+            <tspan x="67" y="194" font-family="Roboto-Regular, Roboto" fill="#000000"></tspan>
+            <tspan x="67" y="218" fill="#65B7F3">2</tspan>
+            <tspan x="75.8984375" y="218" font-family="Roboto-Regular, Roboto" fill="#000000">	It is an ode to forgotten narratives that lie within the depths of </tspan>
+            <tspan x="67" y="242" font-family="Roboto-Regular, Roboto" fill="#000000">oral history.</tspan>
+            <tspan x="67" y="266" font-family="Roboto-Regular, Roboto" fill="#000000"></tspan>
+            <tspan x="67" y="290" fill="#65B7F3">3	</tspan>
+            <tspan x="95" y="290" font-family="Roboto-Regular, Roboto" fill="#000000">back in time without having to travel to their countries.</tspan>
+            <tspan x="67" y="314" font-family="Roboto-Regular, Roboto" fill="#000000"></tspan>
+            <tspan x="67" y="338" fill="#65B7F3">4	</tspan>
+            <tspan x="95" y="338" font-family="Roboto-Regular, Roboto" fill="#000000">It is an ode to forgotten narratives that lie within the depths of </tspan>
+            <tspan x="67" y="362" font-family="Roboto-Regular, Roboto" fill="#000000">oral history. With Dwaar, you can explore.</tspan>
+        </text>
+        <path d="M855,35 L873,35 L873,33 L855,33 L855,35 L855,35 Z M855,30 L873,30 L873,28 L855,28 L855,30 L855,30 Z M855,23 L855,25 L873,25 L873,23 L855,23 L855,23 Z" id="Shape" fill="#000000"></path>
+        <polygon id="Shape" fill="#000000" points="48 31 35.8 31 41.4 25.4 40 24 32 32 40 40 41.4 38.6 35.8 33 48 33"></polygon>
+        <rect id="Rectangle" fill="#EDEDED" x="630" y="0" width="266" height="414"></rect>
+        <polygon id="Shape" fill="#000000" points="666 19.4 664.6 18 659 23.6 653.4 18 652 19.4 657.6 25 652 30.6 653.4 32 659 26.4 664.6 32 666 30.6 660.4 25"></polygon>
+        <path d="M646,92 L872,92" id="Line" stroke="#000000" stroke-linecap="square"></path>
+        <path d="M646,141 L872,141" id="Line-Copy" stroke="#000000" stroke-linecap="square"></path>
+        <text id="Credits-CREATOR-/-DE" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" line-spacing="13" letter-spacing="0.3571428" fill="#000000">
+            <tspan x="646" y="307">Credits</tspan>
+            <tspan x="646" y="320" font-family="Roboto-Regular, Roboto" font-weight="normal">CREATOR / DEVELOPMENT Shreiya Chowdhary</tspan>
+            <tspan x="646" y="333" font-family="Roboto-Regular, Roboto" font-weight="normal">CREATOR / ARTIST  Viplov Singh</tspan>
+            <tspan x="646" y="346" font-family="Roboto-Regular, Roboto" font-weight="normal">CREATOR / CINEMATOGRAPHY Anubhav Syal</tspan>
+            <tspan x="646" y="359" font-family="Roboto-Regular, Roboto" font-weight="normal">3D MODELING Ria Kunti</tspan>
+            <tspan x="646" y="372" font-family="Roboto-Regular, Roboto" font-weight="normal">3D MODELING James Hosken</tspan>
+            <tspan x="646" y="385" font-family="Roboto-Regular, Roboto" font-weight="normal"></tspan>
+            <tspan x="646" y="398" font-family="Roboto-Regular, Roboto" font-weight="normal"></tspan>
+        </text>
+        <text id="About-ITIVRIT-How-it" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="24" letter-spacing="0.4285714">
+            <tspan x="646" y="71" fill="#000000">About ITIVRIT</tspan>
+            <tspan x="646" y="95" fill="#000000"></tspan>
+            <tspan x="646" y="119" fill="#EB537A">How it works</tspan>
+            <tspan x="646" y="143" fill="#000000"></tspan>
+            <tspan x="646" y="167" fill="#000000">Information index</tspan>
+            <tspan x="646" y="191" fill="#000000"></tspan>
+            <tspan x="646" y="215" fill="#000000"></tspan>
+            <tspan x="646" y="239" fill="#000000"></tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="414px" viewBox="0 0 896 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="193" height="36" rx="2"></rect>
+        <filter x="-2.1%" y="-11.1%" width="104.1%" height="127.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="button-copy" transform="translate(67.000000, 313.000000)">
+            <g id="button-bg">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#EB537A" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="Explore-Mehrangarh" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" letter-spacing="0.5" fill="#FFFFFF">
+                <tspan x="29.5736049" y="23">Explore Mehrangarh</tspan>
+            </text>
+        </g>
+        <g id="Group-3" transform="translate(78.000000, 170.000000)" fill="#000000">
+            <path d="M44.3889,-0.0003 L0.4009,25.5567 L-0.0001,26.2957 L0.2869,70.0307 L0.5489,70.5427 L44.5929,95.9997 L45.3989,95.9997 L89.5729,70.5657 L89.8569,70.0387 L89.8569,69.9107 L89.5469,26.3207 L89.1469,25.5547 L45.1939,-0.0003 L44.3889,-0.0003 Z M45.2069,43.9067 L45.2069,2.2437 L87.7459,26.7927 L88.2649,68.5907 L73.9849,60.3297 L74.5049,27.7797 L74.2369,27.3077 L59.7579,18.9257 L58.9519,19.3817 L58.2439,51.3347 L45.2069,43.9067 Z M1.7489,26.7897 L44.2069,2.2437 L44.2069,44.1027 L29.5749,52.5687 L1.9409,68.5727 L1.7489,26.7897 Z M59.5019,51.9517 L60.0109,20.3337 L73.4269,28.1217 L72.9209,59.7137 L59.5019,51.9517 Z M2.6789,70.0497 L6.4689,67.8397 L44.8929,45.5547 L83.9319,68.0167 L87.4359,70.0437 L44.9969,94.5937 L2.6789,70.0497 Z" id="Fill-1"></path>
+            <path d="M17.207,30.2241 L32.207,21.4001 L32.207,36.3781 L17.207,45.2021 L17.207,30.2241 Z M16.962,46.6011 L32.997,37.1471 L33.207,36.6841 L33.207,20.4621 L32.427,20.0001 L16.405,29.4541 L16.207,29.9171 L16.207,46.1391 L16.962,46.6011 Z" id="Fill-2"></path>
+        </g>
+        <text id="about-ITIVRIT-Travel" font-family="Helvetica" font-size="20" font-weight="normal" line-spacing="28" fill="#000000" fill-opacity="0.87">
+            <tspan x="67" y="96">about ITIVRIT</tspan>
+            <tspan x="67" y="124">Travel through time</tspan>
+        </text>
+        <text id="Itivrit-is-an-Augmen" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="24" fill="#000000">
+            <tspan x="211" y="180">Itivrit is an Augmented Reality experience that allows a visitor at a historical monument </tspan>
+            <tspan x="211" y="204">to experience stories about the site and its creator, in an audio-visual format. </tspan>
+            <tspan x="211" y="228">It was born to bridge the gap between traditional Indian history and the digital future </tspan>
+            <tspan x="211" y="252">through the power of storytelling. It will allow you to virtually travel back in time to relive </tspan>
+            <tspan x="211" y="276">an era that has been long forgotten. </tspan>
+        </text>
+        <path d="M855,35 L873,35 L873,33 L855,33 L855,35 L855,35 Z M855,30 L873,30 L873,28 L855,28 L855,30 L855,30 Z M855,23 L855,25 L873,25 L873,23 L855,23 L855,23 Z" id="Shape" fill="#000000"></path>
+        <rect id="Rectangle" fill="#EDEDED" x="631" y="0" width="266" height="414"></rect>
+        <polygon id="Shape" fill="#000000" points="667 19.4 665.6 18 660 23.6 654.4 18 653 19.4 658.6 25 653 30.6 654.4 32 660 26.4 665.6 32 667 30.6 661.4 25"></polygon>
+        <path d="M647,92 L873,92" id="Line" stroke="#000000" stroke-linecap="square"></path>
+        <path d="M647,141 L873,141" id="Line-Copy" stroke="#000000" stroke-linecap="square"></path>
+        <text id="Credits-CREATOR-/-DE" font-family="Roboto-Bold, Roboto" font-size="10" font-weight="bold" line-spacing="13" letter-spacing="0.3571428" fill="#000000">
+            <tspan x="647" y="307">Credits</tspan>
+            <tspan x="647" y="320" font-family="Roboto-Regular, Roboto" font-weight="normal">CREATOR / DEVELOPMENT Shreiya Chowdhary</tspan>
+            <tspan x="647" y="333" font-family="Roboto-Regular, Roboto" font-weight="normal">CREATOR / ARTIST  Viplov Singh</tspan>
+            <tspan x="647" y="346" font-family="Roboto-Regular, Roboto" font-weight="normal">CREATOR / CINEMATOGRAPHY Anubhav Syal</tspan>
+            <tspan x="647" y="359" font-family="Roboto-Regular, Roboto" font-weight="normal">3D MODELING Ria Kunti</tspan>
+            <tspan x="647" y="372" font-family="Roboto-Regular, Roboto" font-weight="normal">3D MODELING James Hosken</tspan>
+            <tspan x="647" y="385" font-family="Roboto-Regular, Roboto" font-weight="normal"></tspan>
+            <tspan x="647" y="398" font-family="Roboto-Regular, Roboto" font-weight="normal"></tspan>
+        </text>
+        <text id="About-ITIVRIT-How-it" font-family="Roboto-Regular, Roboto" font-size="12" font-weight="normal" line-spacing="24" letter-spacing="0.4285714">
+            <tspan x="647" y="71" fill="#EB537A">About ITIVRIT</tspan>
+            <tspan x="647" y="95" fill="#000000"></tspan>
+            <tspan x="647" y="119" fill="#000000">How it works</tspan>
+            <tspan x="647" y="143" fill="#000000"></tspan>
+            <tspan x="647" y="167" fill="#000000">Information index</tspan>
+            <tspan x="647" y="191" fill="#000000"></tspan>
+            <tspan x="647" y="215" fill="#000000"></tspan>
+            <tspan x="647" y="239" fill="#000000"></tspan>
+        </text>
+    </g>
+</svg>

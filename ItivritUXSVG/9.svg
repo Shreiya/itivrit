@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="896px" height="414px" viewBox="0 0 896 414" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>9</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="102" height="102" rx="2"></rect>
+        <filter x="-6.9%" y="-4.9%" width="113.7%" height="113.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="9" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M855,35 L873,35 L873,33 L855,33 L855,35 L855,35 Z M855,30 L873,30 L873,28 L855,28 L855,30 L855,30 Z M855,23 L855,25 L873,25 L873,23 L855,23 L855,23 Z" id="Shape" fill="#000000"></path>
+        <polygon id="Shape" fill="#000000" points="48 31 35.8 31 41.4 25.4 40 24 32 32 40 40 41.4 38.6 35.8 33 48 33"></polygon>
+        <path d="M830,38.539 L830,36.476 C832.891,35.615 835,32.939 835,29.769 C835,26.6 832.891,23.924 830,23.063 L830,21 C834.007,21.911 837,25.487 837,29.769 C837,34.052 834.007,37.629 830,38.539 L830,38.539 Z M832.5,29.769 C832.5,31.535 831.48,33.059 830,33.797 L830,25.742 C831.48,26.48 832.5,28.004 832.5,29.769 L832.5,29.769 Z M819,32.769 L819,26.769 L823,26.769 L828,21.769 L828,37.769 L823,32.769 L819,32.769 Z" id="ic_sound" fill="#000000"></path>
+        <rect id="Rectangle" fill="#ECECEC" x="0" y="0" width="896" height="293"></rect>
+        <text id="GAME" font-family="Roboto-Regular, Roboto" font-size="27" font-weight="normal" line-spacing="22" fill="#000000">
+            <tspan x="70" y="84">GAME</tspan>
+        </text>
+        <text id="GAME" font-family="Roboto-Regular, Roboto" font-size="18" font-weight="normal" line-spacing="22" fill="#000000">
+            <tspan x="70" y="117">GAME</tspan>
+        </text>
+        <polygon id="Shape" fill="#000000" points="48 23 35.8 23 41.4 17.4 40 16 32 24 40 32 41.4 30.6 35.8 25 48 25"></polygon>
+        <path d="M855,31 L873,31 L873,29 L855,29 L855,31 L855,31 Z M855,26 L873,26 L873,24 L855,24 L855,26 L855,26 Z M855,19 L855,21 L873,21 L873,19 L855,19 L855,19 Z" id="Shape" fill="#000000"></path>
+        <path d="M830,34.539 L830,32.476 C832.891,31.615 835,28.939 835,25.769 C835,22.6 832.891,19.924 830,19.063 L830,17 C834.007,17.911 837,21.487 837,25.769 C837,30.052 834.007,33.629 830,34.539 L830,34.539 Z M832.5,25.769 C832.5,27.535 831.48,29.059 830,29.797 L830,21.742 C831.48,22.48 832.5,24.004 832.5,25.769 L832.5,25.769 Z M819,28.769 L819,22.769 L823,22.769 L828,17.769 L828,33.769 L823,28.769 L819,28.769 Z" id="ic_sound" fill="#000000"></path>
+        <rect id="Rectangle" fill="#EEB2EE" x="70" y="148" width="249" height="119"></rect>
+        <text id="Itivrit-is-an-Augmen" font-family="Roboto-Regular, Roboto" font-size="16" font-weight="normal" line-spacing="24" fill="#000000">
+            <tspan x="399" y="165">Itivrit is an Augmented Reality museum experience that </tspan>
+            <tspan x="399" y="189">enhances a visit to an ancient palace in India by allowing </tspan>
+            <tspan x="399" y="213">you to experience oral histories about the creators and </tspan>
+            <tspan x="399" y="237">history of the palace, its rooms, and the objects on display.</tspan>
+        </text>
+        <g id="Post-it®" transform="translate(348.000000, 0.000000)">
+            <g id="Paper">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FFF285" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text id="This-is-a-dropdown-m" font-family="Helvetica" font-size="14" font-weight="normal" fill="#000000">
+                <tspan x="5" y="19">This is a </tspan>
+                <tspan x="5" y="36">dropdown </tspan>
+                <tspan x="5" y="53">menu</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
